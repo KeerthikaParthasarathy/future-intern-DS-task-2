@@ -45,7 +45,7 @@ A dynamic Power BI dashboard template designed to monitor and evaluate the perfo
 
 1. **Download this repo** or clone it:
    ```bash
-   git clone https://github.com/yourusername/social-media-dashboard.git
+https://github.com/KeerthikaParthasarathy/future-intern-DS-task-2.git
 2.Open .pbit file in Power BI Desktop.
 
 3.Load your dataset (must contain campaign metrics like Date, Platform, Cost, Results, etc.)
